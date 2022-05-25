@@ -1,2 +1,2 @@
 # MysticMC Job page
-The MysticMC Job application page is run on a replit page. 
+The MysticMC Job application page is run on a replit page. I use replit to host the website because it is a mostly reliable service. I connected to domain using a redirect instead of linking it to replit. This is why different pages don't show different links.
